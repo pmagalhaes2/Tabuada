@@ -1,2 +1,2 @@
 # Tabuada
-Apresentação de tabuadas Desenvolvida em Python.
+Apresentação de tabuada Desenvolvida em Python.
